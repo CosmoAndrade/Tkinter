@@ -1,0 +1,24 @@
+Nome: Cosmo Andrade
+Telefone: 9999999
+E-mail: cosmo@email
+OBS: Curso de python
+
+
+Nome: Lucas
+Telefone: 888888
+E-mail: lucas@email
+OBS: Curso de python
+
+
+Nome: Felipe
+Telefone: 777777
+E-mail: felipe@email
+OBS: Curso de python
+
+
+Nome: Adriana
+Telefone: 66666666
+E-mail: adriana@email
+OBS: Curso de Java
+
+
